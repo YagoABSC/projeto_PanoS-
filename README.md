@@ -1,1 +1,1 @@
-# projeto_PanoS-
+# projeto_PanoSo

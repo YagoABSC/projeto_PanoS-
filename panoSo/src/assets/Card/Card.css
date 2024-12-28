@@ -1,0 +1,93 @@
+/* From Uiverse.io by alexruix */ 
+.card {
+    width: 220px;
+    height: fit-content;
+    padding: .8em;
+    background: #f5f5f5;
+    position: relative;
+    overflow: visible;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+   }
+   
+   .card-img {
+    background-color: #ffcaa6;
+    height: 50%;
+    width: 100%;
+    border-radius: .5rem;
+    transition: .3s ease;
+    object-fit: cover;
+    cursor: pointer;
+   }
+   
+   .card-info {
+    padding-top: 5%;
+    text-align: start;
+   }
+   
+   svg {
+    width: 20px;
+    height: 20px;
+   }
+   
+   .card-footer {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 20px;
+    border-top: 1px solid #ddd;
+    margin-top: 5px;
+   }
+   
+   /*Text*/
+   .text-title {
+    font-weight: 900;
+    font-size: 1.2em;
+    line-height: 1.5;
+    margin: 0;
+   }
+   
+   .text-body {
+    font-size: .9em;
+    padding-bottom: 10px;
+    margin: 0;
+   }
+
+   .switch-img-container{
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+    margin: 15px 0;
+   }
+
+   .switcher-img{
+    width: 50px;
+    height: 50px;
+    background-color: #000;
+    border-radius: 5px;
+    transition: .3s ease;
+    object-fit: cover;
+   }
+   
+   /*Button*/
+   .card-button {
+    border: 1px solid #252525;
+    display: flex;
+    padding: .3em;
+    cursor: pointer;
+    border-radius: 50px;
+    transition: .3s ease-in-out;
+   }
+   
+   /*Hover*/
+   .card-img:hover {
+    /* transform: translateY(-25%); */
+    box-shadow: rgba(226, 196, 63, 0.25) 0px 13px 47px -5px, rgba(180, 71, 71, 0.3) 0px 8px 16px -8px;
+    height: 60%;
+   }
+   
+   .card-button:hover {
+    border: 1px solid #ffcaa6;
+    background-color: #ffcaa6;
+   }
+   

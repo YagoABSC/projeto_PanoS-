@@ -1,0 +1,114 @@
+{
+    "Produtos": [
+        {
+            "id": 1,
+            "nome": "Kit Natal",
+            "descricao": "Conjunto com 3 panos de prato pé de galinha.",
+            "valor": "R$ 25,00",
+            "fotos": {
+                "principal": "pano1.jpeg",
+                "adicional1": "pano1_1.jpeg",
+                "adicional2": "pano1_2.jpeg"
+            }
+        },
+        {
+            "id": 2,
+            "nome": "Kit Ano Novo",
+            "descricao": "Conjunto com 3 panos de prato pé de galinha.",
+            "valor": "R$ 25,00",
+            "fotos": {
+                "principal": "pano2.jpeg",
+                "adicional1": "pano2_1.jpeg",
+                "adicional2": "pano2_2.jpeg"
+            }
+        },
+        {
+            "id": 3,
+            "nome": "Kit Dia das Mães",
+            "descricao": "Conjunto com 3 panos de prato pé de galinha.",
+            "valor": "R$ 25,00",
+            "fotos": {
+                "principal": "pano3.jpeg",
+                "adicional1": "pano3_1.jpeg",
+                "adicional2": "pano3_2.jpeg"
+            }
+        },
+        {
+            "id": 4,
+            "nome": "Kit Páscoa",
+            "descricao": "Conjunto com 3 panos de prato pé de galinha.",
+            "valor": "R$ 25,00",
+            "fotos": {
+                "principal": "pano4.jpeg",
+                "adicional1": "pano4_1.jpeg",
+                "adicional2": "pano4_2.jpeg"
+            }
+        },
+        {
+            "id": 5,
+            "nome": "Kit Festa Junina",
+            "descricao": "Conjunto com 3 panos de prato pé de galinha.",
+            "valor": "R$ 25,00",
+            "fotos": {
+                "principal": "pano5.jpeg",
+                "adicional1": "pano5_1.jpeg",
+                "adicional2": "pano5_2.jpeg"
+            }
+        },
+        {
+            "id": 6,
+            "nome": "Kit Primavera",
+            "descricao": "Conjunto com 3 panos de prato pé de galinha.",
+            "valor": "R$ 25,00",
+            "fotos": {
+                "principal": "pano6.jpeg",
+                "adicional1": "pano6_1.jpeg",
+                "adicional2": "pano6_2.jpeg"
+            }
+        },
+        {
+            "id": 7,
+            "nome": "Kit Verão",
+            "descricao": "Conjunto com 3 panos de prato pé de galinha.",
+            "valor": "R$ 25,00",
+            "fotos": {
+                "principal": "pano7.jpeg",
+                "adicional1": "pano7_1.jpeg",
+                "adicional2": "pano7_2.jpeg"
+            }
+        },
+        {
+            "id": 8,
+            "nome": "Kit Outono",
+            "descricao": "Conjunto com 3 panos de prato pé de galinha.",
+            "valor": "R$ 25,00",
+            "fotos": {
+                "principal": "pano8.jpeg",
+                "adicional1": "pano8_1.jpeg",
+                "adicional2": "pano8_2.jpeg"
+            }
+        },
+        {
+            "id": 9,
+            "nome": "Kit Inverno",
+            "descricao": "Conjunto com 3 panos de prato pé de galinha.",
+            "valor": "R$ 25,00",
+            "fotos": {
+                "principal": "pano9.jpeg",
+                "adicional1": "pano9_1.jpeg",
+                "adicional2": "pano9_2.jpeg"
+            }
+        },
+        {
+            "id": 10,
+            "nome": "Kit Dia dos Pais",
+            "descricao": "Conjunto com 3 panos de prato pé de galinha.",
+            "valor": "R$ 25,00",
+            "fotos": {
+                "principal": "pano10.jpeg",
+                "adicional1": "pano10_1.jpeg",
+                "adicional2": "pano10_2.jpeg"
+            }
+        }
+    ]
+}
